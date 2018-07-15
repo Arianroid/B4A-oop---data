@@ -1,18 +1,26 @@
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# تقدیم به دانشجویان درس چند رسانه ای (برنامه نویسی اندروید) و شی گرایی ،استاد شمشادی
+
+## برای راحتی بیشتر در دانلود، لینک ها به صورت مجزا دسته بندی شده اند
+
+### شی گرایی
+[PDF _ کتاب شی گرایی](https://www.google.com)
+
+[پروژه نهایی شی گرایی + گزارش نهایی](https://www.google.com)
+
+[تمرین های شی گرایی](https://www.google.com)
 
 
-[I'm an inline-style link](https://www.google.com)
+### چند رسانه ای -برنامه نویسی اندروید
+[PDF_ کتاب چند رسانه ای](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[پروژه نهایی اندروید](https://www.google.com)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[تمرین های برنامه نویسی اندروید](https://www.google.com)
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[جزوه موجود در انتشارات برای چند رسانه ای ](https://www.google.com)
 
-[You can use numbers for reference-style link definitions][1]
+
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
@@ -23,32 +31,3 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
-
-
-
-تمام تمرین های کلاسی ، کتاب درسی و پروژه نهایی درس برنامه نویسی اندروید و شی گرایی دکتر شمشادی
-
-تمامی فایل هارو میتونید یکجا دانلود کنید از قسمت دانلود این ریپازیتوری
-
-https://codeload.github.com/Arianroid/shemshadi/zip/master
-
-**sdsd** 
-
-
-ولی اگر خواستین که قسمت قسمت دانلود کنید  میتونید به لینک های زیر نگاه  کنید : 
-
-لینک دانلود  تمرین ها و پروژه و کتاب درس  برنامه نویسی اندروید  با :
-
-
-
-لینک دانلود  تمرین ها و پروژه و کتاب درس  برنامه نویسی اندروید  با :
-
-https://user-images.githubusercontent.com/15871290/42731253-84aaf7ca-881e-11e8-9178-099da8797c44.jpg
-
-
-
-sdsdsdsd:
-
-
-
-https://user-images.githubusercontent.com/15871290/42731253-84aaf7ca-881e-11e8-9178-099da8797c44.jpg
